@@ -1,5 +1,5 @@
---- ./KernelSU/kernel/selinux/selinux.c.orig	2024-12-14 09:57:01.421284100 -0500
-+++ ./KernelSU/kernel/selinux/selinux.c	2024-12-14 10:04:19.535339871 -0500
+--- a/KernelSU/kernel/selinux/selinux.c	2024-12-14 09:57:01.421284100 -0500
++++ b/KernelSU/kernel/selinux/selinux.c	2024-12-14 10:04:19.535339871 -0500
 @@ -60,7 +60,7 @@
  }*/
  }
